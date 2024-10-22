@@ -22,5 +22,5 @@ Navigate to the project folder and open the index.html file in your web browser 
 - HTML
 
 ## Acknowledgements
-- ![The Odin Project](https://www.theodinproject.com/lessons/foundations-recipes) for the assignment.
-- ![AllRecipes](https://www.allrecipes.com/) for the recipe sources.
+- [The Odin Project](https://www.theodinproject.com/lessons/foundations-recipes) for the assignment.
+- [AllRecipes](https://www.allrecipes.com/) for the recipe sources.
